@@ -3,7 +3,7 @@
 
 [Profile Summary](https://profile-summary-for-github.com/user/android-kunjapppan)
 
-# Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
+# Hi there 👋, I'm Mohammed Maheer
 **Budding Data Scientist with Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in Data Science.<br>
 Currently open to positions in Data Science, Machine Learning, Deep learning and related fields.**
 
